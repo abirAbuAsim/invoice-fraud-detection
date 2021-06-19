@@ -1,0 +1,9 @@
+torch
+torchvision
+torch_multi_head_attention
+scikit-learn
+numpy
+pandas 
+xgboost
+scipy
+matplotlib
